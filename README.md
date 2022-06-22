@@ -1,1 +1,1 @@
-# TraininhApp
+# TrainingApp
